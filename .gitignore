@@ -400,4 +400,4 @@ FodyWeavers.xsd
 *.sln     
 
 #Elimina este archivo de configuracion
-*appsettings.json
+*.json
